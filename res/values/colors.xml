@@ -49,7 +49,8 @@
     <color name="widgets_view_item_text_color">#C4C4C4</color>
 
     <!-- Used as a fallback since colorSecondary doesn't exist pre-API 25 -->
-    <color name="fallback_secondary_color">#FF37474F</color>
+    <!-- <color name="fallback_secondary_color">#FF37474F</color> -->
+    <color name="fallback_secondary_color">#FF4285F4</color>
 
     <!-- Pixel -->
     <color name="qsb_connector">#fff2f2f2</color>
